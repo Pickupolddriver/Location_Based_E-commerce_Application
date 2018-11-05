@@ -29,3 +29,11 @@ The logic behind this is that, whenever a buyer completes an order, the applicat
 
 ## Summary
 Several key points to be noticed in this assignment: the use of Singleton, which nearly changed the way we program from the start of this class, an architecture that makes the whole development process a lot more manageable. The second thing is the login functionality, so users could play different roles in the same application. The third thing is the real time order management system, where we could make the order information synchronized on both buyer and seller sides.  
+
+## Existed Account:
+Seller: Account:jianxi  Password:jianxi 
+
+Buyer: Account:q  Password:q
+
+More accounts you could find in the .csv file
+
